@@ -21,24 +21,28 @@ To run the application, follow these steps:
 
 ## List
 
-List Contacts: To view all the contacts in the contact list, use the following command:
-npm run test:list
+- **List Contacts**: To view all the contacts in the contact list, use the following command:
+  ```bash
+  npm run test:list
 ![List contacts](pic/testList.png)
 
 ## Get
 
-Get Contact by ID: To retrieve a specific contact by providing its unique ID, use the following command:
-npm run test:get
+- **Get Contact by ID**: To retrieve a specific contact by providing its unique ID, use the following command:
+   ```bash
+   npm run test:get
 ![Get contact](pic/testListGet.png)
 
 ## Add
 
-Add New Contact: To add a new contact to the contact list, use the following command:
-npm run test:add
+- **Add New Contact**: To add a new contact to the contact list, use the following command:
+   ```bash
+   npm run test:add
 ![Add contact](pic/testListAdd.png)
 
 ## Remove
 
-Remove Contact: To delete a contact from the contact list by specifying its unique ID, use the following command:
-npm run test:remove
+- **Remove Contact**: To delete a contact from the contact list by specifying its unique ID, use the following command:
+   ```bash
+   npm run test:remove
 ![Remove contact](pic/testListRemove.png)
